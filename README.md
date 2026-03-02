@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**ItkalNagaratna/ItkalNagaratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Nagaratna Itkal
 
-Here are some ideas to get you started:
+💻 Frontend Developer with 5+ years of experience in building modern web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Working on React.js, Next.js and React Native
+- 🎨 UI Engineering & Design Systems
+- 🤖 Interested in AI Interfaces & Real-time UI
+- ⚡ Love clean, responsive and high-performance UI
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- React Native
+- HTML5
+- CSS3
+- Tailwind CSS
+- TypeScript
+
+### UI / Design
+- Framer Motion
+- Styled Components
+- Ant Design
+- Shadcn UI
+- Responsive Design
+
+---
+
+## 🌐 Portfolio
+
+- https://www.nagaratnaitkal.com
+
+## 📫 Contact
+
+- Email: itkalnagaratna@gmail.com
+- Location: Bangalore, India
+
+---
+
+⭐ Passionate about building beautiful UI and modern web apps
